@@ -3,8 +3,9 @@
 Simple password module. It consist from simple password generator and simple strength meter.
 
 ### Install
-1. `git clone https://github.com/j-mak/passwords.git`
-2. `python3 setup.py develop`
+1. `$ git clone https://github.com/j-mak/passwords.git`
+2. `$ cd passwords`
+2. `$ python3 setup.py develop`
 
 #### Generator example
 ```python
